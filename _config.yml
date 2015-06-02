@@ -63,7 +63,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/
-theme: light
+theme: next
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
@@ -72,3 +72,6 @@ deploy:
   repo: git@github.com:moajs/moajs.github.io.git
   branch: master
   message: 'doc'
+
+
+duoshuo_shortname: moajs
