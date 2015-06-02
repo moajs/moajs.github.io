@@ -7,7 +7,7 @@ title: MoaJS
 subtitle: a full stack web framework
 description: based on express
 author: Alfred Sang
-language:
+language: default
 timezone:
 
 # URL
