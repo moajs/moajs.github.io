@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>Moajs</title>
   <subtitle>A fast, simple &amp; powerful blog framework powered by Node.js.</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://hexo.io/"/>
+  <link href="https://moajs.org/"/>
   <updated>2016-09-16T03:08:33.000Z</updated>
-  <id>https://hexo.io/</id>
+  <id>https://moajs.org/</id>
   
   <author>
-    <name>Tommy Chen</name>
+    <name>i5ting</name>
     
   </author>
   
@@ -17,8 +17,8 @@
   
   <entry>
     <title>Hexo 3.2 Released</title>
-    <link href="https://hexo.io/news/2016/02/28/hexo-3-2-released/"/>
-    <id>https://hexo.io/news/2016/02/28/hexo-3-2-released/</id>
+    <link href="https://moajs.org/news/2016/02/28/hexo-3-2-released/"/>
+    <id>https://moajs.org/news/2016/02/28/hexo-3-2-released/</id>
     <published>2016-02-28T00:00:00.000Z</published>
     <updated>2016-09-16T03:08:33.000Z</updated>
     
@@ -98,8 +98,8 @@
   
   <entry>
     <title>Hexo 3.0 Released</title>
-    <link href="https://hexo.io/news/2015/03/05/hexo-3-0-released/"/>
-    <id>https://hexo.io/news/2015/03/05/hexo-3-0-released/</id>
+    <link href="https://moajs.org/news/2015/03/05/hexo-3-0-released/"/>
+    <id>https://moajs.org/news/2015/03/05/hexo-3-0-released/</id>
     <published>2015-03-05T00:00:00.000Z</published>
     <updated>2016-09-16T03:08:33.000Z</updated>
     
@@ -144,8 +144,8 @@
   
   <entry>
     <title>New Documentation and Registry</title>
-    <link href="https://hexo.io/news/2015/02/27/new-documentation-and-registry/"/>
-    <id>https://hexo.io/news/2015/02/27/new-documentation-and-registry/</id>
+    <link href="https://moajs.org/news/2015/02/27/new-documentation-and-registry/"/>
+    <id>https://moajs.org/news/2015/02/27/new-documentation-and-registry/</id>
     <published>2015-02-27T00:00:00.000Z</published>
     <updated>2016-09-16T03:08:33.000Z</updated>
     
@@ -171,8 +171,8 @@
   
   <entry>
     <title>Hexo 2.8 Released</title>
-    <link href="https://hexo.io/news/2014/07/13/hexo-2-8-released/"/>
-    <id>https://hexo.io/news/2014/07/13/hexo-2-8-released/</id>
+    <link href="https://moajs.org/news/2014/07/13/hexo-2-8-released/"/>
+    <id>https://moajs.org/news/2014/07/13/hexo-2-8-released/</id>
     <published>2014-07-13T00:00:00.000Z</published>
     <updated>2016-09-16T03:08:33.000Z</updated>
     
@@ -206,8 +206,8 @@
   
   <entry>
     <title>Hexo 2.7 Released</title>
-    <link href="https://hexo.io/news/2014/06/14/hexo-2-7-released/"/>
-    <id>https://hexo.io/news/2014/06/14/hexo-2-7-released/</id>
+    <link href="https://moajs.org/news/2014/06/14/hexo-2-7-released/"/>
+    <id>https://moajs.org/news/2014/06/14/hexo-2-7-released/</id>
     <published>2014-06-14T00:00:00.000Z</published>
     <updated>2016-09-16T03:08:33.000Z</updated>
     
