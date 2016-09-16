@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://moajs.org/index.html</loc>
+    
+    <lastmod>2016-09-16T07:38:50.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://moajs.org/ru/api/router.html</loc>
     
     <lastmod>2016-09-16T03:08:33.000Z</lastmod>
@@ -9,21 +16,7 @@
   </url>
   
   <url>
-    <loc>https://moajs.org/news/2014/06/14/hexo-2-7-released/</loc>
-    
-    <lastmod>2016-09-16T03:08:33.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://moajs.org/news/2015/02/27/new-documentation-and-registry/</loc>
-    
-    <lastmod>2016-09-16T03:08:33.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://moajs.org/news/2016/02/28/hexo-3-2-released/</loc>
+    <loc>https://moajs.org/news/2014/07/13/hexo-2-8-released/</loc>
     
     <lastmod>2016-09-16T03:08:33.000Z</lastmod>
     
@@ -37,7 +30,14 @@
   </url>
   
   <url>
-    <loc>https://moajs.org/index.html</loc>
+    <loc>https://moajs.org/news/2016/02/28/hexo-3-2-released/</loc>
+    
+    <lastmod>2016-09-16T03:08:33.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://moajs.org/news/2015/02/27/new-documentation-and-registry/</loc>
     
     <lastmod>2016-09-16T03:08:33.000Z</lastmod>
     
@@ -93,13 +93,6 @@
   </url>
   
   <url>
-    <loc>https://moajs.org/api/locals.html</loc>
-    
-    <lastmod>2016-09-16T03:08:33.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://moajs.org/api/index.html</loc>
     
     <lastmod>2016-09-16T03:08:33.000Z</lastmod>
@@ -107,7 +100,21 @@
   </url>
   
   <url>
+    <loc>https://moajs.org/api/locals.html</loc>
+    
+    <lastmod>2016-09-16T03:08:33.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://moajs.org/api/migrator.html</loc>
+    
+    <lastmod>2016-09-16T03:08:33.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://moajs.org/api/processor.html</loc>
     
     <lastmod>2016-09-16T03:08:33.000Z</lastmod>
     
@@ -128,7 +135,14 @@
   </url>
   
   <url>
-    <loc>https://moajs.org/api/processor.html</loc>
+    <loc>https://moajs.org/api/rendering.html</loc>
+    
+    <lastmod>2016-09-16T03:08:33.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://moajs.org/api/router.html</loc>
     
     <lastmod>2016-09-16T03:08:33.000Z</lastmod>
     
@@ -136,6 +150,13 @@
   
   <url>
     <loc>https://moajs.org/api/scaffolds.html</loc>
+    
+    <lastmod>2016-09-16T03:08:33.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://moajs.org/api/tag.html</loc>
     
     <lastmod>2016-09-16T03:08:33.000Z</lastmod>
     
@@ -198,6 +219,13 @@
   </url>
   
   <url>
+    <loc>https://moajs.org/docs/helpers.html</loc>
+    
+    <lastmod>2016-09-16T03:08:33.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://moajs.org/docs/generating.html</loc>
     
     <lastmod>2016-09-16T03:08:33.000Z</lastmod>
@@ -213,13 +241,6 @@
   
   <url>
     <loc>https://moajs.org/docs/internationalization.html</loc>
-    
-    <lastmod>2016-09-16T03:08:33.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://moajs.org/docs/helpers.html</loc>
     
     <lastmod>2016-09-16T03:08:33.000Z</lastmod>
     
@@ -254,28 +275,7 @@
   </url>
   
   <url>
-    <loc>https://moajs.org/api/tag.html</loc>
-    
-    <lastmod>2016-09-16T03:08:33.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://moajs.org/api/rendering.html</loc>
-    
-    <lastmod>2016-09-16T03:08:33.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://moajs.org/api/router.html</loc>
-    
-    <lastmod>2016-09-16T03:08:33.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://moajs.org/docs/templates.html</loc>
+    <loc>https://moajs.org/docs/setup.html</loc>
     
     <lastmod>2016-09-16T03:08:33.000Z</lastmod>
     
@@ -289,7 +289,21 @@
   </url>
   
   <url>
-    <loc>https://moajs.org/docs/setup.html</loc>
+    <loc>https://moajs.org/docs/templates.html</loc>
+    
+    <lastmod>2016-09-16T03:08:33.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://moajs.org/docs/themes.html</loc>
+    
+    <lastmod>2016-09-16T03:08:33.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://moajs.org/docs/troubleshooting.html</loc>
     
     <lastmod>2016-09-16T03:08:33.000Z</lastmod>
     
@@ -303,6 +317,13 @@
   </url>
   
   <url>
+    <loc>https://moajs.org/docs/variables.html</loc>
+    
+    <lastmod>2016-09-16T03:08:33.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://moajs.org/ko/index.html</loc>
     
     <lastmod>2016-09-16T03:08:33.000Z</lastmod>
@@ -310,14 +331,14 @@
   </url>
   
   <url>
-    <loc>https://moajs.org/plugins/index.html</loc>
+    <loc>https://moajs.org/ru/index.html</loc>
     
     <lastmod>2016-09-16T03:08:33.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://moajs.org/ru/index.html</loc>
+    <loc>https://moajs.org/plugins/index.html</loc>
     
     <lastmod>2016-09-16T03:08:33.000Z</lastmod>
     
@@ -345,35 +366,7 @@
   </url>
   
   <url>
-    <loc>https://moajs.org/docs/themes.html</loc>
-    
-    <lastmod>2016-09-16T03:08:33.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://moajs.org/docs/variables.html</loc>
-    
-    <lastmod>2016-09-16T03:08:33.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://moajs.org/docs/troubleshooting.html</loc>
-    
-    <lastmod>2016-09-16T03:08:33.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://moajs.org/ko/api/box.html</loc>
-    
-    <lastmod>2016-09-16T03:08:33.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://moajs.org/ko/api/console.html</loc>
     
     <lastmod>2016-09-16T03:08:33.000Z</lastmod>
     
@@ -387,7 +380,7 @@
   </url>
   
   <url>
-    <loc>https://moajs.org/ko/api/events.html</loc>
+    <loc>https://moajs.org/ko/api/console.html</loc>
     
     <lastmod>2016-09-16T03:08:33.000Z</lastmod>
     
@@ -395,6 +388,13 @@
   
   <url>
     <loc>https://moajs.org/ko/api/filter.html</loc>
+    
+    <lastmod>2016-09-16T03:08:33.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://moajs.org/ko/api/events.html</loc>
     
     <lastmod>2016-09-16T03:08:33.000Z</lastmod>
     
@@ -415,14 +415,14 @@
   </url>
   
   <url>
-    <loc>https://moajs.org/ko/api/index.html</loc>
+    <loc>https://moajs.org/ko/api/locals.html</loc>
     
     <lastmod>2016-09-16T03:08:33.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://moajs.org/ko/api/locals.html</loc>
+    <loc>https://moajs.org/ko/api/index.html</loc>
     
     <lastmod>2016-09-16T03:08:33.000Z</lastmod>
     
@@ -527,14 +527,14 @@
   </url>
   
   <url>
-    <loc>https://moajs.org/ko/docs/deployment.html</loc>
+    <loc>https://moajs.org/ko/docs/front-matter.html</loc>
     
     <lastmod>2016-09-16T03:08:33.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://moajs.org/ko/docs/front-matter.html</loc>
+    <loc>https://moajs.org/ko/docs/deployment.html</loc>
     
     <lastmod>2016-09-16T03:08:33.000Z</lastmod>
     
@@ -653,20 +653,6 @@
   </url>
   
   <url>
-    <loc>https://moajs.org/ru/api/console.html</loc>
-    
-    <lastmod>2016-09-16T03:08:33.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://moajs.org/ru/api/deployer.html</loc>
-    
-    <lastmod>2016-09-16T03:08:33.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://moajs.org/ru/api/events.html</loc>
     
     <lastmod>2016-09-16T03:08:33.000Z</lastmod>
@@ -681,7 +667,7 @@
   </url>
   
   <url>
-    <loc>https://moajs.org/ru/api/generator.html</loc>
+    <loc>https://moajs.org/ru/api/deployer.html</loc>
     
     <lastmod>2016-09-16T03:08:33.000Z</lastmod>
     
@@ -716,14 +702,21 @@
   </url>
   
   <url>
-    <loc>https://moajs.org/ru/api/posts.html</loc>
+    <loc>https://moajs.org/ru/api/generator.html</loc>
     
     <lastmod>2016-09-16T03:08:33.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://moajs.org/ru/api/renderer.html</loc>
+    <loc>https://moajs.org/ru/api/console.html</loc>
+    
+    <lastmod>2016-09-16T03:08:33.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://moajs.org/ru/api/posts.html</loc>
     
     <lastmod>2016-09-16T03:08:33.000Z</lastmod>
     
@@ -737,6 +730,13 @@
   </url>
   
   <url>
+    <loc>https://moajs.org/ru/api/renderer.html</loc>
+    
+    <lastmod>2016-09-16T03:08:33.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://moajs.org/ru/api/rendering.html</loc>
     
     <lastmod>2016-09-16T03:08:33.000Z</lastmod>
@@ -744,7 +744,7 @@
   </url>
   
   <url>
-    <loc>https://moajs.org/news/2014/07/13/hexo-2-8-released/</loc>
+    <loc>https://moajs.org/news/2014/06/14/hexo-2-7-released/</loc>
     
     <lastmod>2016-09-16T03:08:33.000Z</lastmod>
     
@@ -786,14 +786,14 @@
   </url>
   
   <url>
-    <loc>https://moajs.org/ru/docs/configuration.html</loc>
+    <loc>https://moajs.org/ru/docs/contributing.html</loc>
     
     <lastmod>2016-09-16T03:08:33.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://moajs.org/ru/docs/contributing.html</loc>
+    <loc>https://moajs.org/ru/docs/configuration.html</loc>
     
     <lastmod>2016-09-16T03:08:33.000Z</lastmod>
     
@@ -807,13 +807,6 @@
   </url>
   
   <url>
-    <loc>https://moajs.org/ru/docs/deployment.html</loc>
-    
-    <lastmod>2016-09-16T03:08:33.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://moajs.org/ru/docs/front-matter.html</loc>
     
     <lastmod>2016-09-16T03:08:33.000Z</lastmod>
@@ -821,7 +814,7 @@
   </url>
   
   <url>
-    <loc>https://moajs.org/ru/docs/helpers.html</loc>
+    <loc>https://moajs.org/ru/docs/deployment.html</loc>
     
     <lastmod>2016-09-16T03:08:33.000Z</lastmod>
     
@@ -842,6 +835,13 @@
   </url>
   
   <url>
+    <loc>https://moajs.org/ru/docs/helpers.html</loc>
+    
+    <lastmod>2016-09-16T03:08:33.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://moajs.org/ru/docs/internationalization.html</loc>
     
     <lastmod>2016-09-16T03:08:33.000Z</lastmod>
@@ -849,14 +849,14 @@
   </url>
   
   <url>
-    <loc>https://moajs.org/ru/docs/permalinks.html</loc>
+    <loc>https://moajs.org/ru/docs/migration.html</loc>
     
     <lastmod>2016-09-16T03:08:33.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://moajs.org/ru/docs/migration.html</loc>
+    <loc>https://moajs.org/ru/docs/permalinks.html</loc>
     
     <lastmod>2016-09-16T03:08:33.000Z</lastmod>
     
@@ -1024,7 +1024,7 @@
   </url>
   
   <url>
-    <loc>https://moajs.org/zh-cn/api/router.html</loc>
+    <loc>https://moajs.org/zh-cn/api/tag.html</loc>
     
     <lastmod>2016-09-16T03:08:33.000Z</lastmod>
     
@@ -1038,7 +1038,7 @@
   </url>
   
   <url>
-    <loc>https://moajs.org/zh-cn/api/tag.html</loc>
+    <loc>https://moajs.org/zh-cn/api/router.html</loc>
     
     <lastmod>2016-09-16T03:08:33.000Z</lastmod>
     
@@ -1046,6 +1046,13 @@
   
   <url>
     <loc>https://moajs.org/zh-cn/api/themes.html</loc>
+    
+    <lastmod>2016-09-16T03:08:33.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://moajs.org/zh-cn/docs/commands.html</loc>
     
     <lastmod>2016-09-16T03:08:33.000Z</lastmod>
     
@@ -1073,13 +1080,6 @@
   </url>
   
   <url>
-    <loc>https://moajs.org/zh-cn/docs/commands.html</loc>
-    
-    <lastmod>2016-09-16T03:08:33.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://moajs.org/zh-cn/docs/data-files.html</loc>
     
     <lastmod>2016-09-16T03:08:33.000Z</lastmod>
@@ -1094,7 +1094,14 @@
   </url>
   
   <url>
-    <loc>https://moajs.org/zh-cn/docs/index.html</loc>
+    <loc>https://moajs.org/zh-cn/docs/front-matter.html</loc>
+    
+    <lastmod>2016-09-16T03:08:33.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://moajs.org/zh-cn/docs/generating.html</loc>
     
     <lastmod>2016-09-16T03:08:33.000Z</lastmod>
     
@@ -1102,6 +1109,20 @@
   
   <url>
     <loc>https://moajs.org/zh-cn/docs/helpers.html</loc>
+    
+    <lastmod>2016-09-16T03:08:33.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://moajs.org/zh-cn/docs/index.html</loc>
+    
+    <lastmod>2016-09-16T03:08:33.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://moajs.org/zh-cn/docs/internationalization.html</loc>
     
     <lastmod>2016-09-16T03:08:33.000Z</lastmod>
     
@@ -1150,6 +1171,13 @@
   </url>
   
   <url>
+    <loc>https://moajs.org/zh-cn/docs/templates.html</loc>
+    
+    <lastmod>2016-09-16T03:08:33.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://moajs.org/zh-cn/docs/themes.html</loc>
     
     <lastmod>2016-09-16T03:08:33.000Z</lastmod>
@@ -1157,7 +1185,7 @@
   </url>
   
   <url>
-    <loc>https://moajs.org/zh-cn/docs/templates.html</loc>
+    <loc>https://moajs.org/zh-cn/docs/variables.html</loc>
     
     <lastmod>2016-09-16T03:08:33.000Z</lastmod>
     
@@ -1178,21 +1206,7 @@
   </url>
   
   <url>
-    <loc>https://moajs.org/zh-cn/docs/variables.html</loc>
-    
-    <lastmod>2016-09-16T03:08:33.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://moajs.org/zh-tw/api/box.html</loc>
-    
-    <lastmod>2016-09-16T03:08:33.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://moajs.org/zh-tw/api/deployer.html</loc>
     
     <lastmod>2016-09-16T03:08:33.000Z</lastmod>
     
@@ -1206,14 +1220,7 @@
   </url>
   
   <url>
-    <loc>https://moajs.org/zh-tw/api/events.html</loc>
-    
-    <lastmod>2016-09-16T03:08:33.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://moajs.org/zh-tw/api/filter.html</loc>
+    <loc>https://moajs.org/zh-tw/api/deployer.html</loc>
     
     <lastmod>2016-09-16T03:08:33.000Z</lastmod>
     
@@ -1269,13 +1276,6 @@
   </url>
   
   <url>
-    <loc>https://moajs.org/zh-tw/api/rendering.html</loc>
-    
-    <lastmod>2016-09-16T03:08:33.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://moajs.org/zh-tw/api/renderer.html</loc>
     
     <lastmod>2016-09-16T03:08:33.000Z</lastmod>
@@ -1284,6 +1284,13 @@
   
   <url>
     <loc>https://moajs.org/zh-tw/api/router.html</loc>
+    
+    <lastmod>2016-09-16T03:08:33.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://moajs.org/zh-tw/api/rendering.html</loc>
     
     <lastmod>2016-09-16T03:08:33.000Z</lastmod>
     
@@ -1304,14 +1311,21 @@
   </url>
   
   <url>
-    <loc>https://moajs.org/zh-cn/docs/internationalization.html</loc>
+    <loc>https://moajs.org/zh-tw/api/themes.html</loc>
     
     <lastmod>2016-09-16T03:08:33.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://moajs.org/zh-tw/api/themes.html</loc>
+    <loc>https://moajs.org/zh-tw/api/filter.html</loc>
+    
+    <lastmod>2016-09-16T03:08:33.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://moajs.org/zh-tw/api/events.html</loc>
     
     <lastmod>2016-09-16T03:08:33.000Z</lastmod>
     
@@ -1430,13 +1444,6 @@
   </url>
   
   <url>
-    <loc>https://moajs.org/zh-tw/docs/templates.html</loc>
-    
-    <lastmod>2016-09-16T03:08:33.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://moajs.org/zh-tw/docs/tag-plugins.html</loc>
     
     <lastmod>2016-09-16T03:08:33.000Z</lastmod>
@@ -1451,14 +1458,7 @@
   </url>
   
   <url>
-    <loc>https://moajs.org/zh-tw/docs/troubleshooting.html</loc>
-    
-    <lastmod>2016-09-16T03:08:33.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://moajs.org/zh-tw/docs/variables.html</loc>
+    <loc>https://moajs.org/zh-tw/docs/templates.html</loc>
     
     <lastmod>2016-09-16T03:08:33.000Z</lastmod>
     
@@ -1472,14 +1472,14 @@
   </url>
   
   <url>
-    <loc>https://moajs.org/zh-cn/docs/front-matter.html</loc>
+    <loc>https://moajs.org/zh-tw/docs/troubleshooting.html</loc>
     
     <lastmod>2016-09-16T03:08:33.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://moajs.org/zh-cn/docs/generating.html</loc>
+    <loc>https://moajs.org/zh-tw/docs/variables.html</loc>
     
     <lastmod>2016-09-16T03:08:33.000Z</lastmod>
     
